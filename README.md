@@ -34,8 +34,8 @@ Please remember to use the examples provided in the `example_code` folder to hel
 ## CSS
 ### Mini Assignments
 Please remember to use the examples provided in the `example_code` folder to help you complete the mini assignments.
-- [CSS Mini Assignment 1](/pdf_files/css/mini_assignment_1.pdf)
-- [CSS Mini Assignment 2](/pdf_files/css/mini_assignment_2.pdf)
+- [CSS Mini Assignment 1](/pdf_files/CSS/mini_assignment_1.pdf)
+- [CSS Mini Assignment 2](/pdf_files/CSS/mini_assignment_2.pdf)
 ### Resources
 - [CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [CSS Tutorial](https://www.w3schools.com/css/)
