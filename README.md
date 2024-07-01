@@ -49,8 +49,12 @@ Please remember to use the examples provided in the `example_code` folder to hel
 - [CSS Mini Assignment 2 Solution](/solutions/css/mini_assignment_2.css)
 
 ## Javascript, JQuery, p5.js
-
+- [Javascript Examples](/example_code/js/)
+### Day 1
+- [Javascript Mini Assignment 1](/pdf_files/js/mini_assignment_1.pdf)
 ### Resources
+- [Javascript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Javascript Tutorial](https://www.w3schools.com/js/)
 
 # More General Resources
 - [HTML,CSS,JS and Other in W3Schools](https://www.w3schools.com/)
