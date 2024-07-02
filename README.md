@@ -52,6 +52,10 @@ Please remember to use the examples provided in the `example_code` folder to hel
 - [Javascript Examples](/example_code/js/)
 ### Day 1
 - [Javascript Mini Assignment 1](/pdf_files/js/mini_assignment_1.pdf)
+- [Javascript Mini Assignment 2](/pdf_files/js/mini_assignment_2.pdf)
+### Day 2
+- [Javascript Mini Assignment 3](/pdf_files/js/mini_assignment_3.pdf)
+- [Javascript Mini Assignment 4](/pdf_files/js/mini_assignment_4.pdf)
 ### Resources
 - [Javascript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Javascript Tutorial](https://www.w3schools.com/js/)
