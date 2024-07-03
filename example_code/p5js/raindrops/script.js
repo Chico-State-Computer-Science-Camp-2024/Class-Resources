@@ -5,19 +5,19 @@ let yPos = 0;
 let xPos = 0;
 let numDrops = 100;
 
-async function setup(){
+function setup(){
     createCanvas(canvasWidth, canvasHeight);
-    xPos = random(0, canvasWidth);
     for(let i = 0; i < numDrops; i++){
-        await sleep(1000);
+        xPos = random(0, canvasWidth);
+        yPos = random(0, -1 * canvasHeight);
         points.push({yPos: yPos, xPos: xPos});
     }
-    
 }
 
 function draw(){
     background(220);
     raindrops();
+    console.log(points.length);
 }
 
 function raindrops(){
@@ -31,6 +31,6 @@ function raindrops(){
     }
 }
 
-function sleep(time){
-    return new Promise(resolve => setTimeout(resolve, time));
-}
+// function sleep(time){
+//     return new Promise(resolve => setTimeout(resolve, time));
+// }
